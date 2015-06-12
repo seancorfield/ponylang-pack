@@ -1,0 +1,3 @@
+[submodule "vendor/submodules/ponylang-mode"]
+	path = vendor/submodules/ponylang-mode
+	url = https://github.com/abingham/ponylang-mode
